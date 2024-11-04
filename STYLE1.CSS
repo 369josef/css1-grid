@@ -1,0 +1,41 @@
+.HEL img{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.HEL{
+
+    background-color: white;
+  
+    
+    
+    width: 350px;
+    margin:0 auto;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    border:solid black;
+
+    color: rgb(0, 0, 0);
+   
+   
+
+    
+}
+
+.order{
+    padding: 15px;
+    margin: 5px;
+    color:rgb(15, 15, 15);
+    size: 25px;
+    font-style:inherit;
+    text-align:center;
+    
+    
+    
+
+}

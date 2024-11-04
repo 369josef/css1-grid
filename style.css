@@ -1,0 +1,19 @@
+.item{
+    background-color: whitesmoke;
+    
+    border-width: thin;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+color: black;
+
+}
+
+.container{
+    border:1px solid whitesmoke;
+    display:grid;
+    grid-template-columns: 200px 200px 200px;
+    justify-content:space-around;
+    
+    gap: 10px;
+}
